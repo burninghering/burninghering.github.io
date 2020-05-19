@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 자기소개서
-tags: [자기소개서, 눈물, 슬픔]
-8주차 과제 - 자기소개서
+title: Introduce myself
+tags: [test]
+Introduce myself
 ---
 
 제출 기한 : 5월 21일 (목)
