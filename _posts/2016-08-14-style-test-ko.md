@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test(Korean ver.)"
+title: "자기소개서"
 tags: [샘플 포스트, 테스트, 스타일]
 comments: true
 ---
