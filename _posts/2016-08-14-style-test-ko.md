@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "자기소개서"
-tags: [샘플 포스트, 테스트, 스타일]
+tags: [자기소개서]
 comments: true
 ---
 
