@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "자기소개서"
-tags: [자기소개서]
-8주차 과제
+title: "A Full and Comprehensive Style Test(Korean ver.)"
+tags: [샘플 포스트, 테스트, 스타일]
+comments: true
 ---
 
-자기소개서 제출
-제출 기한 : 5월 21일 (목)
+이 글은 스타일을 모아둔 것입니다. 소스 코드를 확인하여 스타일을 적용하는 방법을 알아보세요.
 
----
+--- 
 
-## 1. 자기소개서
+## 1. 제목
 
 # 제목 1
 
