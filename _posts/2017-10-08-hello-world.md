@@ -1,12 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: 안녕하세요! 김혜린입니다.
 tags:
   - test
   - tags
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+잘부탁드립니다.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
